@@ -8,4 +8,4 @@ Respondemos perguntas como:
 📊 Soma de faturamento por continente
 📊 Faturamento por marca
 
-![Dashboard](imagem/Dash de vendas.png)
+![Dashboard](Imagem/Dash de vendas.png)
