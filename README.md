@@ -8,4 +8,8 @@ Respondemos perguntas como:
 📊 Soma de faturamento por continente
 📊 Faturamento por marca
 
-![Dashboard](Imagem/Dash de vendas.png)
+importamos dados do excel para o power bi
+tratamento de dados no power query
+layout criado no figma e importamos para o power bi
+
+![Dashboard](Imagem/Dash_vendas.png)
